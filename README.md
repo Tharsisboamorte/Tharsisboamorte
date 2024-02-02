@@ -7,7 +7,7 @@
   
 - 🚀 My main goal is to keep learning and keep improving so that eventually I can become a reference on my field of work.
 
-## Skills
+## 🛠️ Skills
 
 ### Languages
 
