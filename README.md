@@ -37,3 +37,7 @@
 ## 🎓 Education
 
 - ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
+## 🔗 Links
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tharsis-lumumba-b99a89140/)
